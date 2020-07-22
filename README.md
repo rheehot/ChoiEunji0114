@@ -1,11 +1,12 @@
 <h3 align="center"> Hi there <img src="https://user-images.githubusercontent.com/44978839/88218494-1a368800-cc9b-11ea-8a15-2e37faf442f0.gif" width="30"> </h3>
 
 
-<p align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ChoiEunji0114)](https://github.com/ChoiEunji0114) 
+<div style="display:flex;" align="center">
 
-</p>
+  [![eunji's github stats](https://github-readme-stats.vercel.app/api?username=ChoiEunji0114)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 <div style="display:flex;" align="center">
   
@@ -17,6 +18,8 @@
 
 <!--
 **ChoiEunji0114/ChoiEunji0114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ChoiEunji0114)](https://github.com/ChoiEunji0114) 
 
 Here are some ideas to get you started:
 
